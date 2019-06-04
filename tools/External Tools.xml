@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="GameDebug" description="start game with debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cmd.exe" />
+      <option name="PARAMETERS" value="/C &quot;Messiah_DX.bat&quot;" />
+      <option name="WORKING_DIRECTORY" value="E:/Workspace/G67" />
+    </exec>
+  </tool>
+</toolSet>

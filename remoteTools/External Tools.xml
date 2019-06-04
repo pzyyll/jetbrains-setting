@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="run_server.sh" description="start server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="f4bac59d-3df0-44e6-a8e5-973f77d0cf23">
+    <exec>
+      <option name="COMMAND" value="sh" />
+      <option name="PARAMETERS" value="/root/g67/maintenance/operations/run_server.sh" />
+      <option name="WORKING_DIRECTORY" value="/root/g67/maintenance/operations" />
+    </exec>
+  </tool>
+  <tool name="hotfix.sh" description="hot fix" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="f4bac59d-3df0-44e6-a8e5-973f77d0cf23">
+    <exec>
+      <option name="COMMAND" value="sh" />
+      <option name="PARAMETERS" value="./reload.sh" />
+      <option name="WORKING_DIRECTORY" value="/root" />
+    </exec>
+  </tool>
+</toolSet>

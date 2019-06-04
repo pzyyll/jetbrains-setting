@@ -1,0 +1,239 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 (test)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="E:\Workspace\pycharm_space\test\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://E:/Workspace/pycharm_space/test/venv/Lib" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/test/venv/Scripts" type="simple" />
+            <root url="file://D:/install/python27/Lib" type="simple" />
+            <root url="file://D:/install/python27/DLLs" type="simple" />
+            <root url="file://D:/install/python27/Lib/lib-tk" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/test/venv" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/test/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/964512080" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/Workspace/pycharm_space/test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="D:\install\python37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/install/python37/DLLs" type="simple" />
+            <root url="file://D:/install/python37/Lib" type="simple" />
+            <root url="file://D:/install/python37" type="simple" />
+            <root url="file://D:/install/python37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/886565538" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (remote_debug_test)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="E:\Workspace\pycharm_space\remote_debug_test\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://E:/Workspace/pycharm_space/remote_debug_test/venv/Lib" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/remote_debug_test/venv/Scripts" type="simple" />
+            <root url="file://D:/install/python27/Lib" type="simple" />
+            <root url="file://D:/install/python27/DLLs" type="simple" />
+            <root url="file://D:/install/python27/Lib/lib-tk" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/remote_debug_test/venv" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/remote_debug_test/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-720067271" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/Workspace/pycharm_space/remote_debug_test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://root@192.168.179.129:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://root@192.168.179.129:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-312201592" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-312201592" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1495129599" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="f4bac59d-3df0-44e6-a8e5-973f77d0cf23" WEB_SERVER_CONFIG_NAME="root@192.168.179.129:22" WEB_SERVER_CREDENTIALS_ID="sftp://root@192.168.179.129:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1495129599/-312201592" remote-root="/usr/local/lib/python2.7/dist-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-312201592" remote-root="/usr/local/lib/python2.7/dist-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="D:\install\python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/install/python27/DLLs" type="simple" />
+            <root url="file://D:/install/python27/Lib" type="simple" />
+            <root url="file://D:/install/python27/Lib/lib-tk" type="simple" />
+            <root url="file://D:/install/python27" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages" type="simple" />
+            <root url="file://D:/install/python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1179968545" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (test_metaclass)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="E:\Workspace\pycharm_space\test_metaclass\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://E:/Workspace/pycharm_space/test_metaclass/venv/Lib" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/test_metaclass/venv/Scripts" type="simple" />
+            <root url="file://D:/install/python27/Lib" type="simple" />
+            <root url="file://D:/install/python27/DLLs" type="simple" />
+            <root url="file://D:/install/python27/Lib/lib-tk" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/test_metaclass/venv" type="simple" />
+            <root url="file://E:/Workspace/pycharm_space/test_metaclass/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1375614564" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/Workspace/pycharm_space/test_metaclass" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://root@192.168.179.129:22/usr/bin/python) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://root@192.168.179.129:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/724150857" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-312201592" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1495129599" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="7919c293-0aee-4705-a6ed-be375a9581cd" WEB_SERVER_CONFIG_NAME="root-sec" WEB_SERVER_CREDENTIALS_ID="sftp://root@192.168.179.129:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-312201592" remote-root="/usr/local/lib/python2.7/dist-packages/pycharm-debug.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.1/system/remote_sources/1495129599/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

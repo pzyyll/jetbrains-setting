@@ -1,0 +1,97 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1550741439760">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1550741473168">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Workspace/pycharm_space/test/timport/comps/first_comp.py" timestamp="1550738341032">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="E:/Workspace/pycharm_space/test/timport/xrun.py" timestamp="1550742009417">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="17" column="22" />
+      </file>
+      <file name="E:/Workspace/pycharm_space/test/timport/run.py" timestamp="1550739190291">
+        <mark key="[" line="9" column="25" />
+      </file>
+      <file name="D:/install/python27/Lib/pkgutil.py" timestamp="1550740322033" />
+      <file name="E:/Workspace/G67/Package/Script/Python/entities/common/SpaceAndMonsterHardcodeDef.py" timestamp="1550743022545">
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="93" column="43" />
+        <mark key="^" line="93" column="43" />
+        <mark key="." line="93" column="43" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="4">
+        <text>class FirstComp(object):
+    pass</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkjIAkK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29tcF9jbGFzcyA9IE5vbmUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQgY29tcF9jbGFzcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">eHggPSBjb21wX2NsYXNzKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQgZGlyKHh4KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRpcihtKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">cHJpbnQgZGlyKG0pCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
